@@ -1,0 +1,17 @@
+Uygulama 2:
+
+* "movie-app/uygulama-2" klasörünü oluşturunuz.
+* "en-iyi-filmler.html" isminde dosya ekleyiniz.
+* Sayfayı özetleyen uygun bir başlık ve açıklama ekleyiniz.
+* Sayfa açıklamasında önemli kısımlar için biçimlendirme etiketleri kullanınız.
+* Aşağıdaki linkte verilen en popüler 3 filmi uygun etiketlerle listeleyiniz.
+
+https://www.beyazperde.com/filmler/tum-filmleri/kullanici-puani/
+
+Harry Potter ve Felsefe Taşı
+
+Yönetmen Chris Columbus
+
+
+Çocuk filmi
+Harry Potter'ın ailesi ağır ve şaibeli bir trafik kazasında ölmüştür. Öksüz ve yetim kalan Harry'nin sığınabileceği tek yer, arasının pek de iyi olmadığı teyzesinin yanıdır. Harry, tüm hayatı boyunca idari ailesi tarafından kötü davranışlarla büyütülür. Ancak Harry Potter artık 11 yaşındadır ve Harry'nin hayalleri ve yetenekleri günden güne su yüzüne çıkmaktadır. Kısa süre sonra Hogwarts büyücülük okuluna davet edilir. Artık tek amacı, ailesinin bu şüpheli kazasını araştırmak ve muhattaplarını cezalandırmaktır.
